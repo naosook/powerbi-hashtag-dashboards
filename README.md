@@ -76,4 +76,4 @@ Dashboard desenvolvido para acompanhar a saúde financeira do negócio, com foco
 
 ## Certificado
 
-O certificado de conclusão do Intensivão de Power BI da Hashtag Treinamentos está disponível na imagem `certificado`.
+O certificado de conclusão do Intensivão de Power BI da Hashtag Treinamentos está disponível na imagem **[certificado](certificado/)**.
