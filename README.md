@@ -1,6 +1,6 @@
 # Dashboards Power BI — Curso Hashtag Treinamentos
 
-![Capa](assets/dashboard-financeiro.jpg)
+![Capa](assets/gerenciais2.png)
 
 Este repositório reúne três projetos desenvolvidos durante o **Intensivão de Power BI** da Hashtag Treinamentos, utilizando diferentes conjuntos de dados para simular cenários de análise nas áreas de Produção, Recursos Humanos e Financeiro (curso com carga horária de 8 horas, concluído em 20/02/25).
 
